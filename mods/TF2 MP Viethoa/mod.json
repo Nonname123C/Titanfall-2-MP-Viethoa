@@ -1,6 +1,6 @@
 {
 	"Name": "Việt Hoá Game",
-	"Description": "Thử cái.",
-	"Version": "alpha",
+	"Description": "Việt hoá phần Chơi Mạng của game.",
+	"Version": "1.0.0",
 	"LoadPriority": 0
 }
