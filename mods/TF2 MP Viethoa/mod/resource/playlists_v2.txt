@@ -4235,7 +4235,7 @@ playlists
 				"PL_hardpoint_lobby"	"Amped Hardpoint Lobby"
 				"PL_hardpoint_desc"	"Capture and hold a hardpoint to earn points.  Amped Hardpoints give double points.\n^FFC83200Players: 6v6\nTime Limit: 10m\nMax Party Size: 6"
 				"PL_hardpoint_abbr"	"AHP"
-				"PL_capture_the_flag"	"Capture the Flag"
+				"PL_capture_the_flag"	"Cướp Cờ"
 				"PL_capture_the_flag_lobby"	"CTF Lobby"
 				"PL_capture_the_flag_desc"	"Steal the enemy flag and return it to your base while stopping the enemy team from taking your flag!\n^FFC83200Players: 5v5\nTime Limit: 12m\nMax Party Size: 5"
 				"PL_capture_the_flag_abbr"	"CTF"
